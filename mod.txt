@@ -1,0 +1,12 @@
+{
+  	"name" : "Unhittable Armour",
+    	"description" : "Replaces value of regular two-piece suit dodge to an exceedingly high amount.",
+    	"author" : "arkSchwarz"
+	"contact" : "There is none",
+                  "blt_version" : 2,
+	"version" : "1.00",
+	"hooks" : [
+
+   { "hook_id" : "lib/tweak_data/upgradestweakdata", "script_path" : "unhittable.lua" }
+]
+}
